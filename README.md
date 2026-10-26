@@ -1,4 +1,3 @@
-# ai-engineering-SklearnAssistant
 # SklearnDocs Assistant
 
 > Answers scikit-learn questions in plain language, using only the official documentation and always showing the source page, for students and junior developers.
