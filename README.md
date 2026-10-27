@@ -30,8 +30,6 @@ Students and junior developers learning or using scikit-learn.
 - scikit-learn FAQ — https://scikit-learn.org/stable/faq.html
 - scikit-learn source repository (`doc/` folder) — https://github.com/scikit-learn/scikit-learn
 
-Only URLs and a download script are stored in this repo, not copies of the documentation.
-
 ## Weekly Progress
 | Week | Focus | Deliverable | Status |
 |------|-------|-------------|--------|
