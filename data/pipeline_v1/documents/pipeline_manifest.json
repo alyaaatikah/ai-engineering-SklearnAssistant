@@ -1,0 +1,41 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-23T12:22:02.414602+00:00",
+  "data_type": "documents",
+  "configuration": {
+    "chunk_size": 500,
+    "method": "paragraph-aware"
+  },
+  "processing_method": "paragraph-aware text chunks of 500 characters",
+  "sources": [
+    {
+      "path": "/content/week3_project/data/raw/linear_model.txt",
+      "sha256": "b9d050bf8b2ca47fb0b305255631629ef410ccf2944f198c7297f4e7b96266dc"
+    }
+  ],
+  "outputs": [
+    "/content/week3_project/data/pipeline_v1/documents/prepared_text.jsonl"
+  ],
+  "source_output_mapping": [
+    {
+      "source": "/content/week3_project/data/raw/linear_model.txt",
+      "output": "/content/week3_project/data/pipeline_v1/documents/prepared_text.jsonl"
+    }
+  ],
+  "inspection": {
+    "source": "linear_model.txt",
+    "characters": 86023,
+    "pages": null
+  },
+  "validation": {
+    "output_count": 1,
+    "output_sha256": [
+      "85777b417e54bd010c174100cf994b4135ce443d378c2da441f4697a13be9f35"
+    ],
+    "output_bytes": [
+      106774
+    ]
+  },
+  "source_version": "scikit-learn 1.9.1",
+  "access_rights": "BSD-3-Clause (public repository)"
+}
