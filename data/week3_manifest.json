@@ -1,0 +1,17 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-23T12:22:02.342650+00:00",
+  "records": [
+    {
+      "source_id": "S01",
+      "source_filename": "linear_model.txt",
+      "source_sha256": "b9d050bf8b2ca47fb0b305255631629ef410ccf2944f198c7297f4e7b96266dc",
+      "prepared_output": "data/processed/prepared_text.jsonl",
+      "prepared_sha256": "b9bf0245011dd0871a7054aba556a2ec424fe98d65ee22e7c47abb03a83a45f1",
+      "processing_note": "paragraph-aware-char-500",
+      "source_version": "scikit-learn 1.9.1",
+      "access_rights": "BSD-3-Clause (public repository)",
+      "status": "Prepared; quality review pending"
+    }
+  ]
+}
