@@ -33,8 +33,8 @@ Students and junior developers learning or using scikit-learn.
 ## Weekly Progress
 | Week | Focus | Deliverable | Status |
 |------|-------|-------------|--------|
-| W1 | System map + project scope | `README.md` + initial docs | ✅ |
-| W2 | System architecture + requirements (`FR1`–`FR3`, `RAI1`–`RAI4`) | `docs/week2_architecture_v1.png` + requirements spec | ✅ |
+| W1 | System map + project scope | `README.md`, [`docs/week1_system_map.png`](docs/week1_system_map.png), [`docs/week1_project_scope.md`](docs/week1_project_scope.md), [`docs/week1_observation_sheet.md`](docs/week1_observation_sheet.md) | ✅ |
+| W2 | System architecture + requirements (`FR1`–`FR3`, `RAI1`–`RAI4`) | [`docs/week2_architecture_v1.png`](docs/week2_architecture_v1.png), [`docs/week2_architecture_decisions.md`](docs/week2_architecture_decisions.md), [`docs/week2_requirements.md`](docs/week2_requirements.md), [`docs/week2_evaluation_criteria.md`](docs/week2_evaluation_criteria.md) | ✅ |
 | W3 | Data ingestion, paragraph-aware chunking & V1 lineage pipeline | [`notebooks/week3_pipeline.ipynb`](notebooks/week3_pipeline.ipynb), [`docs/week3_data_inventory.md`](docs/week3_data_inventory.md), [`docs/week3_pipeline_decisions.md`](docs/week3_pipeline_decisions.md), [`docs/week3_pipeline_diagram.png`](docs/week3_pipeline_diagram.png), and `data/` manifests | ✅ |
 
 ## Week 3 Pipeline Overview
